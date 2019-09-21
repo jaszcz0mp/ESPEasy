@@ -43,8 +43,8 @@
 #define DEFAULT_AP_KEY      "configesp"                              // Enter network WPA key for AP (config) mode
 
 // --- Wifi Client Mode -----------------------------------------------------------------------------
-#define DEFAULT_SSID                         "MyHomeSSID"            // Enter your network SSID
-#define DEFAULT_KEY                          "MySuperSecretPassword" // Enter your network WPA key
+#define DEFAULT_SSID                         "ex_home"            // Enter your network SSID
+#define DEFAULT_KEY                          "Abrakadabra401676" // Enter your network WPA key
 #define DEFAULT_USE_STATIC_IP                false                   // (true|false) enabled or disabled static IP
 #define DEFAULT_IP                           "192.168.0.50"          // Enter your IP address
 #define DEFAULT_DNS                          "192.168.0.1"           // Enter your DNS
